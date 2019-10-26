@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9f33ce37b932c87ed69f6a23d11ec58",
+    "revision": "f3a925524d0758fa2c5b69fef413928e",
     "url": "/SquanchyParty/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SquanchyParty/static/css/2.27cde75d.chunk.css"
   },
   {
-    "revision": "dab0f92a3228a1c0aa1d",
-    "url": "/SquanchyParty/static/css/main.f783847d.chunk.css"
+    "revision": "6030bbb5bd209bc5b435",
+    "url": "/SquanchyParty/static/css/main.021f5611.chunk.css"
   },
   {
     "revision": "8405b426d4bca07d2b04",
     "url": "/SquanchyParty/static/js/2.464d24a5.chunk.js"
   },
   {
-    "revision": "dab0f92a3228a1c0aa1d",
-    "url": "/SquanchyParty/static/js/main.1079d9b3.chunk.js"
+    "revision": "6030bbb5bd209bc5b435",
+    "url": "/SquanchyParty/static/js/main.5d86b69f.chunk.js"
   },
   {
     "revision": "a75deabad0f002508a91",
