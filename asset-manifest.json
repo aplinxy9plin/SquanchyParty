@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ScuanchyParty/static/css/main.27eceecd.chunk.css",
-    "main.js": "/ScuanchyParty/static/js/main.0ac4f0c7.chunk.js",
-    "main.js.map": "/ScuanchyParty/static/js/main.0ac4f0c7.chunk.js.map",
-    "runtime-main.js": "/ScuanchyParty/static/js/runtime-main.1b0c2e8b.js",
-    "runtime-main.js.map": "/ScuanchyParty/static/js/runtime-main.1b0c2e8b.js.map",
-    "static/css/2.27cde75d.chunk.css": "/ScuanchyParty/static/css/2.27cde75d.chunk.css",
-    "static/js/2.a90d079e.chunk.js": "/ScuanchyParty/static/js/2.a90d079e.chunk.js",
-    "static/js/2.a90d079e.chunk.js.map": "/ScuanchyParty/static/js/2.a90d079e.chunk.js.map",
-    "index.html": "/ScuanchyParty/index.html",
-    "precache-manifest.0f67cf5a98f4bceebb4cdde90b9e213a.js": "/ScuanchyParty/precache-manifest.0f67cf5a98f4bceebb4cdde90b9e213a.js",
-    "service-worker.js": "/ScuanchyParty/service-worker.js",
-    "static/css/2.27cde75d.chunk.css.map": "/ScuanchyParty/static/css/2.27cde75d.chunk.css.map",
-    "static/css/main.27eceecd.chunk.css.map": "/ScuanchyParty/static/css/main.27eceecd.chunk.css.map"
+    "main.css": "/scuanchyparty/static/css/main.27eceecd.chunk.css",
+    "main.js": "/scuanchyparty/static/js/main.0ac4f0c7.chunk.js",
+    "main.js.map": "/scuanchyparty/static/js/main.0ac4f0c7.chunk.js.map",
+    "runtime-main.js": "/scuanchyparty/static/js/runtime-main.bc1a63ec.js",
+    "runtime-main.js.map": "/scuanchyparty/static/js/runtime-main.bc1a63ec.js.map",
+    "static/css/2.27cde75d.chunk.css": "/scuanchyparty/static/css/2.27cde75d.chunk.css",
+    "static/js/2.39200f01.chunk.js": "/scuanchyparty/static/js/2.39200f01.chunk.js",
+    "static/js/2.39200f01.chunk.js.map": "/scuanchyparty/static/js/2.39200f01.chunk.js.map",
+    "index.html": "/scuanchyparty/index.html",
+    "precache-manifest.c42618ee7bc3645b2c07180c123786e8.js": "/scuanchyparty/precache-manifest.c42618ee7bc3645b2c07180c123786e8.js",
+    "service-worker.js": "/scuanchyparty/service-worker.js",
+    "static/css/2.27cde75d.chunk.css.map": "/scuanchyparty/static/css/2.27cde75d.chunk.css.map",
+    "static/css/main.27eceecd.chunk.css.map": "/scuanchyparty/static/css/main.27eceecd.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b0c2e8b.js",
+    "static/js/runtime-main.bc1a63ec.js",
     "static/css/2.27cde75d.chunk.css",
-    "static/js/2.a90d079e.chunk.js",
+    "static/js/2.39200f01.chunk.js",
     "static/css/main.27eceecd.chunk.css",
     "static/js/main.0ac4f0c7.chunk.js"
   ]
