@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ScuanchyParty/static/css/main.27eceecd.chunk.css",
+    "main.js": "/ScuanchyParty/static/js/main.0ac4f0c7.chunk.js",
+    "main.js.map": "/ScuanchyParty/static/js/main.0ac4f0c7.chunk.js.map",
+    "runtime-main.js": "/ScuanchyParty/static/js/runtime-main.1b0c2e8b.js",
+    "runtime-main.js.map": "/ScuanchyParty/static/js/runtime-main.1b0c2e8b.js.map",
+    "static/css/2.27cde75d.chunk.css": "/ScuanchyParty/static/css/2.27cde75d.chunk.css",
+    "static/js/2.a90d079e.chunk.js": "/ScuanchyParty/static/js/2.a90d079e.chunk.js",
+    "static/js/2.a90d079e.chunk.js.map": "/ScuanchyParty/static/js/2.a90d079e.chunk.js.map",
+    "index.html": "/ScuanchyParty/index.html",
+    "precache-manifest.0f67cf5a98f4bceebb4cdde90b9e213a.js": "/ScuanchyParty/precache-manifest.0f67cf5a98f4bceebb4cdde90b9e213a.js",
+    "service-worker.js": "/ScuanchyParty/service-worker.js",
+    "static/css/2.27cde75d.chunk.css.map": "/ScuanchyParty/static/css/2.27cde75d.chunk.css.map",
+    "static/css/main.27eceecd.chunk.css.map": "/ScuanchyParty/static/css/main.27eceecd.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b0c2e8b.js",
+    "static/css/2.27cde75d.chunk.css",
+    "static/js/2.a90d079e.chunk.js",
+    "static/css/main.27eceecd.chunk.css",
+    "static/js/main.0ac4f0c7.chunk.js"
+  ]
+}
