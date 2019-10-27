@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SquanchyParty/static/css/main.021f5611.chunk.css",
-    "main.js": "/SquanchyParty/static/js/main.adffaf52.chunk.js",
-    "main.js.map": "/SquanchyParty/static/js/main.adffaf52.chunk.js.map",
+    "main.js": "/SquanchyParty/static/js/main.f9bb6a2e.chunk.js",
+    "main.js.map": "/SquanchyParty/static/js/main.f9bb6a2e.chunk.js.map",
     "runtime-main.js": "/SquanchyParty/static/js/runtime-main.d2b62c39.js",
     "runtime-main.js.map": "/SquanchyParty/static/js/runtime-main.d2b62c39.js.map",
     "static/css/2.27cde75d.chunk.css": "/SquanchyParty/static/css/2.27cde75d.chunk.css",
     "static/js/2.d4520b5c.chunk.js": "/SquanchyParty/static/js/2.d4520b5c.chunk.js",
     "static/js/2.d4520b5c.chunk.js.map": "/SquanchyParty/static/js/2.d4520b5c.chunk.js.map",
     "index.html": "/SquanchyParty/index.html",
-    "precache-manifest.9428b7b897909006fdef451d2b90dece.js": "/SquanchyParty/precache-manifest.9428b7b897909006fdef451d2b90dece.js",
+    "precache-manifest.16852a13a371c5b30fb414e240039c64.js": "/SquanchyParty/precache-manifest.16852a13a371c5b30fb414e240039c64.js",
     "service-worker.js": "/SquanchyParty/service-worker.js",
     "static/css/2.27cde75d.chunk.css.map": "/SquanchyParty/static/css/2.27cde75d.chunk.css.map",
     "static/css/main.021f5611.chunk.css.map": "/SquanchyParty/static/css/main.021f5611.chunk.css.map"
@@ -19,6 +19,6 @@
     "static/css/2.27cde75d.chunk.css",
     "static/js/2.d4520b5c.chunk.js",
     "static/css/main.021f5611.chunk.css",
-    "static/js/main.adffaf52.chunk.js"
+    "static/js/main.f9bb6a2e.chunk.js"
   ]
 }
