@@ -10,15 +10,16 @@ class Find extends React.Component {
   constructor(props){
     super(props);
     this.state = { 
-      search: ''
+      search: '',
     }
     this.onChange = this.onChange.bind(this)
   }
+
   onChange (search) { this.setState({ search }); }
 
   get users () {
     const search = this.state.search.toLowerCase();
-    return this.props.state.users.filter((user) => user.name.toLowerCase().indexOf(search) > -1);
+    return this.props.state.users.filter((user) => user.username.toLowerCase().indexOf(search) > -1);
   }
 
   render(){
@@ -34,7 +35,7 @@ class Find extends React.Component {
                 {this.users.length > 0 &&
                     this.users.map((user, index) => 
                         <Checkbox style={{color: "white"}} onChange={this.props.onChoose} id={index} checked={user.check} key={user.id}>
-                            <b>{user.name}</b>
+                            <b>{user.username}</b>
                         </Checkbox>
                     )
                 }

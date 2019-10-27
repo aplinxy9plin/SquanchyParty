@@ -2,7 +2,7 @@
   "name": "squanchyparty",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://aplinxy9plin.github.io/ScuanchyParty",
+  "homepage": "https://aplinxy9plin.github.io/SquanchyParty",
   "private": true,
   "main": "index.js",
   "scripts": {
@@ -37,6 +37,8 @@
     "react-audio-player": "^0.11.1",
     "react-dom": "^16.10.2",
     "react-responsive-carousel": "^3.1.50",
+    "react-spring": "^7.2.8",
+    "react-with-gesture": "^4.0.8",
     "redux": "^4.0.4",
     "slick-carousel": "^1.8.1"
   },
